@@ -26,8 +26,9 @@ import dealRoutes from "./routes/dealRoutes.js";
 
 const allowedOrigins = [
   "http://localhost:3000", // for development
-  "https://farmer-broker-connectt-j5ig.vercel.app",
-  "https://fasal-trade.vercel.app", // your Vercel frontend domain
+  "https://fasal-trade.vercel.app",
+  "https://farmer-broker-connectt-j5ig.vercel.app", // your Vercel frontend domain
+  ,
 ];
 
 // CORS
